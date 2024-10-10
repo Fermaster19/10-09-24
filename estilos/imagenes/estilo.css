@@ -1,0 +1,49 @@
+/*selectores{estilos}
+tipos de selectores 
+1- etiquetas h1, p
+2- clases .+nombre parte de un grupo de etiquetas 
+3- id #+nombre id que tiene una etiqueta 
+*/
+body{
+    background-color: aqua;
+}
+
+.fondoverde{
+    background-color: green;
+}
+h2{
+    background-color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#tituloprincipal{
+    background-color: rgb(150, 380, 874);
+    width: 400px;
+    height: 50px;
+    display: block;
+}
+button{
+    display: block;
+    background-color: coral;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.botongris{
+    background-color: gray;
+}
+#perro{
+    width: 300px;
+}
+.texto2{
+    width: 25%;
+    height: 40vh;
+}
+#textuno{
+    background-image: url(./fondo-monocromatico-blanco-estilo-papel_52683-66443.avif);
+}
+ul{
+    background-color: blueviolet;
+    width: 50%;
+}
+li{
+    background-color: chocolate;
+}
